@@ -195,5 +195,15 @@
       "label": "なし",
       "description": "リング、マスク、背景色なし"
     }
-  }
+  },
+  "vtta-tokenizer.auto-apply-dynamic-token-ring.name": "ダイナミックリングを自動で適用しますか？",
+  "vtta-tokenizer.auto-apply-dynamic-token-ring.hint": "編集済のコマにダイナミックリングを自動で有効にしますか？",
+  "vtta-tokenizer.force-disable-dynamic-token-ring.name": "ダイナミックリングに強制しますか？",
+  "vtta-tokenizer.force-disable-dynamic-token-ring.hint": "編集済のコマに対してダイナミックリングを無効化しますか？",
+  "vtta-tokenizer.check-for-wildcard-asterisk.name": "ワイルドカードアスタリスクを確認しますか？",
+  "vtta-tokenizer.check-for-wildcard-asterisk.hint": "ワイルドカードが確認された時、コマ名にワイルドカード用のアスタリスクがあるかチェックします。見つからなかった場合通常コマとして扱います。",
+  "vtta-tokenizer.reset-scaling.name": "コマのスケール初期化",
+  "vtta-tokenizer.reset-scaling.hint": "保存時に、コマのスケーリングをデフォルトに戻します。",
+  "vtta-tokenizer.actor-id-in-name.name": "アクターIDをファイル名に併記",
+  "vtta-tokenizer.actor-id-in-name.hint":"元祖のコマを編集する時、名前にアクターIDを併記します（アクター名ごとではなく、アクターごとにユニークファイルを作成します）"
 }
